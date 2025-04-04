@@ -60,9 +60,6 @@
             "providers": [
                 "Brackets\\AdminTranslations\\AdminTranslationsServiceProvider"
             ]
-        },
-        "branch-alias": {
-            "dev-master": "4.2-dev"
         }
     }
 }
