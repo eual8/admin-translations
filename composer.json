@@ -1,5 +1,5 @@
 {
-    "name": "develop-algoritma/admin-translations",
+    "name": "eual8/admin-translations",
     "description": "Translation manager for brackets/admin-ui",
     "keywords": [
         "translations",
@@ -33,9 +33,9 @@
     ],
     "require": {
         "php": "^8.0",
-        "develop-algoritma/admin-ui": "dev-master",
-        "develop-algoritma/admin-listing": "dev-master",
-        "develop-algoritma/translatable": "dev-master"
+        "eual8/admin-ui": "dev-master",
+        "eual8/admin-listing": "dev-master",
+        "eual8/translatable": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": "~4.0|~5.0|~6.0|~7.0|~8.0|~9.0",
@@ -64,15 +64,15 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/admin-ui.git"
+            "url": "https://github.com/eual8/admin-ui.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/admin-listing.git"
+            "url": "https://github.com/eual8/admin-listing.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/translatable.git"
+            "url": "https://github.com/eual8/translatable.git"
         }
         ]
     
